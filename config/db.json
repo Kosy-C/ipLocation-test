@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "domain": "facebook.com",
+        "long": "3.43973",
+        "lat": "6.42768",
+        "geoname_id": "9259035",
+        "isActive": true
+    },
+    {
+        "id": 3,
+        "domain": "google.com",
+        "long": "3.43973",
+        "lat": "6.42768",
+        "geoname_id": "9259035",
+        "isActive": false
+    },
+    {
+        "id": 4,
+        "domain": "twitter.com",
+        "long": "3.43973",
+        "lat": "6.42768",
+        "geoname_id": "9259035",
+        "isActive": true
+    }
+]
